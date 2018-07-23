@@ -1,0 +1,4 @@
+200300000 6.6 9.5 Joao Maria
+201512345 7.8 9.1 Fulano de Tal
+201554321 2.0 7.0 Michael Jackson de Lima
+201000013 9.9 1.1 Lady Gaga de Fulano
